@@ -25,6 +25,7 @@ This code uses the following libraries:
 
 - Pandas
 - Pathlib
+- Aplaca Trade Api
 - Numpy
 - %Matplotlib
 ####  To install these libraries
